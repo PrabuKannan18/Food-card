@@ -1,0 +1,42 @@
+.navbar{
+    background-color: black;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 98%;
+    height: 60px;
+    padding: 0px 20px;
+    
+}
+
+.logo{
+    font-size: 20px;
+}
+
+.navbar ul li {
+    list-style-type: none;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+   
+}
+
+.navbar ul {
+    gap: 20px;
+    display: inline-flex;
+}
+
+.count{
+    background-color: rgb(13, 2, 44);
+    width: 15px;
+    height: 18px;
+    display: inline-block;
+    border-radius: 60%;
+    padding: 3px;
+    text-align: center;
+
+}
+

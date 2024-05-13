@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Cheeseburger",
+      "amt": 120,
+      "shop": "Burger Haven",
+      "ftype": "Burger",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-tall-FS-38.webp",
+      "latest": "2024-04-24"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "amt": 95,
+      "shop": "Pizza Palace",
+      "ftype": "Pizza",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Pizza-Fries-Tall-FS-32.jpg",
+      "latest": "2024-04-23"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Caesar Salad",
+      "amt": 250,
+      "shop": "Salad Stop",
+      "ftype": "Salad",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDng2o9MiOOPLg29MEyEdKGEU8UH7HSDOJVoXCrxFAuw&s",
+      "latest": "2024-04-22"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti Bolognese",
+      "amt": 130,
+      "shop": "Pasta House",
+      "ftype": "Pasta",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-tall-FS-0204.webp",
+      "latest": "2024-04-21"
+    },
+    {
+      "id": 5,
+      "name": "Fish and Chips",
+      "amt": 220,
+      "shop": "Seafood Shack",
+      "ftype": "Seafood",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2017/03/Baked-fish-and-chips-with-lemon-smashed-peas-recipe-tall-FS.webp",
+      "latest": "2024-04-20"
+    },
+    {
+      "id": 6,
+      "name": "Margarita Pizza",
+      "amt": 300,
+      "shop": "Pizza Palace",
+      "ftype": "Pizza",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2018/04/Breakfast-Pizza-with-egg-bacon-mushrooms-tomato-Recipe-tall1.webp",
+      "latest": "2024-04-19"
+    },
+    {
+      "id": 7,
+      "name": "Caesar Salad",
+      "amt": 100,
+      "shop": "Salad Stop",
+      "ftype": "Salad",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOnmWQPHDRth-yBQw3xEwki_EjfKvkMW3IMoqLUOvcw&s",
+      "latest": "2024-04-18"
+    },
+    {
+      "id": 8,
+      "name": "BBQ Chicken Wings",
+      "amt": 190,
+      "shop": "Wing World",
+      "ftype": "Appetizer",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2020/06/bbq-chicken-wings-tall-FS-8.webp",
+      "latest": "2024-04-17"
+    },
+    {
+      "id": 9,
+      "name": "Vegetable Stir-Fry",
+      "amt": 210,
+      "shop": "Wok Master",
+      "ftype": "Asian",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2022/02/Sweet-and-Sour-Vegetables-tall-FS-19.webp",
+      "latest": "2024-04-16"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Brownie",
+      "amt": 70,
+      "shop": "Sweet Treats",
+      "ftype": "Dessert",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2017/09/Chocolate-Cherry-Cheesecake-Brownies-Gluten-Free-Recipe-Tall-FS.webp",
+      "latest": "2024-04-15"
+    },
+    {
+      "id": 11,
+      "name": "Chicken Quesadilla",
+      "amt": 310,
+      "shop": "Mexican Grill",
+      "ftype": "Mexican",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2023/05/Pork-Carnitas-Tall-FS.webp",
+      "latest": "2024-04-14"
+    },
+    {
+      "id": 12,
+      "name": "Fruit Salad",
+      "amt": 320,
+      "shop": "Fresh Fruits",
+      "ftype": "Salad",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2017/02/Korean-Beef-Bulgogi-Bowl-recipe-tall-FS.webp",
+      "latest": "2024-04-13"
+    },
+    {
+      "id": 13,
+      "name": "Beef Burrito",
+      "amt": 190,
+      "shop": "Mexican Grill",
+      "ftype": "Mexican",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2015/11/Slow-Cooker-Pork-and-Beef-Chilli-tall-FS.jpg",
+      "latest": "2024-04-12"
+    },
+    {
+      "id": 14,
+      "name": "Shrimp Tempura",
+      "amt": 240,
+      "shop": "Sushi Delight",
+      "ftype": "Japanese",
+      "pic": "https://www.crunchycreamysweet.com/wp-content/uploads/2020/01/shrimp-tempura-A.jpg",
+      "latest": "2024-04-11"
+    },
+    {
+      "id": 15,
+      "name": "Caprese Salad",
+      "amt": 80,
+      "shop": "Italian Bistro",
+      "ftype": "Salad",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2014/08/Quinoa-broadbean-Caprese-tall-FS-7500.webp",
+      "latest": "2024-04-10"
+    },
+    {
+      "id": 16,
+      "name": "Vegetable Soup",
+      "amt": 110,
+      "shop": "Soup Kitchen",
+      "ftype": "Soup",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPofA6oeFbt1Bmgo9iZ1wP9iAsHZ7OuEq8Kf7ClERpg&s",
+      "latest": "2024-04-09"
+    },
+    {
+      "id": 17,
+      "name": "Chicken Tikka Masala",
+      "amt": 270,
+      "shop": "Indian Spice",
+      "ftype": "Indian",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Chicken-Tikka-Masala-tall-FS-58.webp",
+      "latest": "2024-04-08"
+    },
+    {
+      "id": 18,
+      "name": "Hawaiian Pizza",
+      "amt": 140,
+      "shop": "Pizza Palace",
+      "ftype": "Pizza",
+      "pic": "https://www.allrecipes.com/thmb/v1Xi2wtebK1sZwSJitdV4MGKl1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hawaiian-pizza-ddmfs-3x2-132-450eff04ad924d9a9eae98ca44e3f988.jpg",
+      "latest": "2024-04-07"
+    },
+    {
+      "id": 19,
+      "name": "Chicken Caesar Wrap",
+      "amt": 300,
+      "shop": "Wrap 'n Roll",
+      "ftype": "Wrap",
+      "pic": "https://www.eatingwell.com/thmb/GhOSNFEvenSAQmv2nZKNK7zNxa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-Chicken-Caesar-Wrap-hero-1x1-1-b033bb0d47794ebb8754d7640f583f5b.jpg",
+      "latest": "2024-04-06"
+    },
+    {
+      "id": 20,
+      "name": "Steak Fajitas",
+      "amt": 120,
+      "shop": "Tex-Mex Grill",
+      "ftype": "Tex-Mex",
+      "pic": "https://www.kitchensanctuary.com/wp-content/uploads/2016/04/Fajita-sharing-platter-2.webp",
+      "latest": "2024-04-05"
+    }
+  ]
